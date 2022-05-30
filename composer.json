@@ -1,5 +1,5 @@
 {
-    "name": "plexi/light-obfuscator",
+    "name": "saperx/light-obfuscator",
     "description": "Ofuscador de código para projetos feitos em PHP",
     "keywords": ["php","obfuscating","obfuscator"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Ricardo Pereira",
             "email": "rpdesignerfly@gmail.com"
+        },
+        {
+            "name": "Willian de Souza",
+            "email": "willian.souza@saperx.com.br"
         }
     ],
     "require": {
